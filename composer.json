@@ -1,0 +1,19 @@
+{
+  "name": "vancens/tp51-ueidtor",
+  "description": "ueditor for thinkphp5.1",
+  "minimum-stability": "dev",
+  "license": "project",
+  "authors": [
+    {
+      "name": "vancens ",
+      "email": "service@vancens.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "vancens\\ueditor\\": "src"
+    }
+  }
+}
