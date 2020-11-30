@@ -1,5 +1,6 @@
 # tp51-ueidtor
 ueditor for thinkphp5.1  
+适用于thinkphp5.1的富文本编辑器ueditor
 ***
 #### 流程
 * 安装composer包
