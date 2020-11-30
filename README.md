@@ -10,7 +10,7 @@ ueditor for thinkphp5.1
 * 前端文件引用
 
 #### 帮助
-* 使用问题请加QQ群：1043389632
+* 使用问题与反馈请加QQ群：1043389632
 
 #### 链接
 * [UEditor文档](http://fex.baidu.com/ueditor/)
